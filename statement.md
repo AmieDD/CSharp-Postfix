@@ -17,7 +17,7 @@ namespace SoloLearn
         {
             int x = 3;
             int y = x++;
-            Console.WriteLine(x+" "+y);
+            Console.WriteLine(x+" = "+y);
         }
     }
 }
